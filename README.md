@@ -1,2 +1,1 @@
-# skype-clone
-Created with CodeSandbox
+## Skype clone in React-Redux
