@@ -1,6 +1,6 @@
 import React from "react";
 import "./User.css";
-import { setActiveUserId } from "../action";
+import { setActiveUserId } from "../actions";
 import store from "../store";
 
 const User = ({ user }) => {
